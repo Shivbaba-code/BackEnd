@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1914791779",
+    "project_id": "vkapp-696bc",
+    "storage_bucket": "vkapp-696bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1914791779:android:8dbd20602fe8661b2ed556",
+        "android_client_info": {
+          "package_name": "com.vk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALIFgVswvIcONsW_PG4ePi_Ju3HbqNlNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
